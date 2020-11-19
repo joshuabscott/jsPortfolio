@@ -666,19 +666,24 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-8">
+
                         <div class="contact-area-form">
-                            <form action="#">
+                            <!--Form Submission-->
+                            <form action="POST" data-netlify="true">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <p>
-                                            <input type="text" placeholder="Your Name">
+                                            <input type="text" name="name"
+                                                   id="name" placeholder="Your Name">
                                         </p>
                                     </div>
                                     <div class="col-md-6">
                                         <p>
-                                            <input type="text" placeholder="Your Email">
+                                            <input type="email" name="email"
+                                                   id="email" placeholder="Your Email">
                                         </p>
                                     </div>
                                 </div>
@@ -694,13 +699,25 @@
                                         </p>
                                     </div>
                                 </div>
+
                                 <div class="row">
                                     <div class="col-md-12">
                                         <p>
-                                            <textarea cols="30" rows="10" placeholder="Write Your Message"></textarea>
+                                            <textarea cols="30" rows="10" name="message" id="message" placeholder="Write Your Message"></textarea>
                                         </p>
                                     </div>
                                 </div>
+
+                                <div class="field">
+                                    <p>
+                                        <input type="file" name="myfile" id="myfile" placeholder="Upload File">
+                                    </p>
+                                </div>
+
+                                <div class="field">
+                                   <div data-netlify-recaptha="true"></div>
+                                </div>
+
                                 <div class="row">
                                     <div class="col-md-12">
                                         <p>
@@ -720,7 +737,7 @@
                                 </div>
                                 <div class="addreass-info">
                                     <p>
-                                        +1 323 334 0417
+                                        +1 323-334-0417
                                         <br> +1 909-418-8171
                                     </p>
                                 </div>
