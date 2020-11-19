@@ -672,18 +672,42 @@
 
                         <div class="contact-area-form">
                             <!--Form Submission-->
+
                             <form action="POST" data-netlify="true">
+								<div class="fields">
+									<div class="field half">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+									</div>
+                                    <div class="field">
+										<input type="file" name="myfile" id="myfile" placeholder="Upload File" rows="7"/>
+									</div>
+                                    <div class="field">
+										<div data-netlify-recaptcha="true"></div>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" class="button primary" /></li>
+								</ul>
+							</form>
+
+
+
+                            <!--<form action="POST" data-netlify="true">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <p>
-                                            <input type="text" name="name"
-                                                   id="name" placeholder="Your Name">
+                                            <input type="text" name="name" id="name" placeholder="Your Name">
                                         </p>
                                     </div>
                                     <div class="col-md-6">
                                         <p>
-                                            <input type="email" name="email"
-                                                   id="email" placeholder="Your Email">
+                                            <input type="email" name="email"  id="email" placeholder="Your Email">
                                         </p>
                                     </div>
                                 </div>
@@ -725,7 +749,7 @@
                                         </p>
                                     </div>
                                 </div>
-                            </form>
+                            </form>-->
                         </div>
                     </div>
 
