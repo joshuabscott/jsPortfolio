@@ -1,6 +1,6 @@
 # Portfolio
  Portfolio 2.0
- I'm Josh, a software engineer based in Southern California, who enjoys building things that live on the internet. I develop exceptional websites and web apps
+
 ## by [Josh Scott](https://josh-scott-portfolio.netlify.app/)
 
 <!-- TABLE OF CONTENTS -->
