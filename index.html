@@ -674,26 +674,53 @@
                             <!--Form Submission-->
 
                             <form action="POST" data-netlify="true">
-								<div class="fields">
-									<div class="field half">
-										<input type="text" name="name" id="name" placeholder="Name" />
-									</div>
-									<div class="field">
-										<input type="email" name="email" id="email" placeholder="Email" />
-									</div>
-									<div class="field">
-										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
-									</div>
+                                <div class="fields">
+                                    <div class="field half">
+                                        <p>
+                                            <input type="text" name="name" id="name" placeholder="Your Name" />
+                                        </p>
+                                    </div>
+                                    <div class="field half">
+                                        <p>
+                                            <input type="email" name="email" id="email" placeholder="Your Email" />
+                                        </p>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>
+                                                <select class="styled" name="carlist">
+                                                    <option value="Select Category">Select Category</option>
+                                                    <option value="Web Design">Web Design</option>
+                                                    <option value="UI/UX">UI/UX</option>
+                                                    <option value="Apps Developement">Apps Developement</option>
+                                                </select>
+                                            </p>
+                                        </div>
+                                    </div>
+
+
                                     <div class="field">
-										<input type="file" name="myfile" id="myfile" placeholder="Upload File" rows="7"/>
-									</div>
+                                        <p>
+                                            <textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+                                        </p>
+                                    </div>
                                     <div class="field">
-										<div data-netlify-recaptcha="true"></div>
-									</div>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" class="button primary" /></li>
-								</ul>
+                                        <p>
+                                            <input type="file" name="myfile" id="myfile" placeholder="Upload File" rows="7" />
+                                        </p>
+                                    </div>
+                                    <div class="field">
+                                        <p>
+                                            <div data-netlify-recaptcha="true"></div>
+                                        </p>
+                                    </div>
+                                </div>
+                                <ul class="actions">
+                                    <p>
+                                    <li><input type="submit" value="Send Message" class="button primary" /></li>
+                                    </p>
+                                </ul>
 							</form>
 
 
