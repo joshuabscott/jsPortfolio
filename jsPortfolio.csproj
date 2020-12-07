@@ -145,7 +145,9 @@
     <Content Include="assets\img\client-logo4.png" />
     <Content Include="assets\img\client-logo5.png" />
     <Content Include="assets\img\Dog480x480.jpg" />
-    <Content Include="assets\img\favicon.png" />
+    <Content Include="assets\img\favicon-16x16.png" />
+    <Content Include="assets\img\favicon-32x32.png" />
+    <Content Include="assets\img\favicon.ico" />
     <Content Include="assets\img\Fizzbuzz480x480.jpg" />
     <Content Include="assets\img\footer-bg.jpg" />
     <Content Include="assets\img\hero1.jpg" />
