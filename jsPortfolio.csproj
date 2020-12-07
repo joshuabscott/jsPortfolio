@@ -150,6 +150,7 @@
     <Content Include="assets\img\footer-bg.jpg" />
     <Content Include="assets\img\hero1.jpg" />
     <Content Include="assets\img\Hotdog480x480.jpg" />
+    <Content Include="assets\img\Innovation.jpg" />
     <Content Include="assets\img\Josh Scott HS blk.jpg" />
     <Content Include="assets\img\JoshScottlogo.png" />
     <Content Include="assets\img\latest-news3.png" />
@@ -225,6 +226,8 @@
     <Content Include="assets\fonts\fontawesome-webfontd41d.eot" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="index.html" />
+    <Content Include="offcanvasmenu.html" />
+    <Content Include="TemPindex.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
