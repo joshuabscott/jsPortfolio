@@ -131,6 +131,7 @@
     <Content Include="assets\img\award-logo4.png" />
     <Content Include="assets\img\award-logo5.png" />
     <Content Include="assets\img\bio-icon.png" />
+    <Content Include="assets\img\Blog Modal Image.PNG" />
     <Content Include="assets\img\blog-post1.jpg" />
     <Content Include="assets\img\blog-post2.jpg" />
     <Content Include="assets\img\blog-post3.jpg" />
@@ -139,6 +140,7 @@
     <Content Include="assets\img\blog2.jpg" />
     <Content Include="assets\img\blog3.jpg" />
     <Content Include="assets\img\breadcumb-bg.jpg" />
+    <Content Include="assets\img\Bug Tracker Image.PNG" />
     <Content Include="assets\img\client-logo1.png" />
     <Content Include="assets\img\client-logo2.png" />
     <Content Include="assets\img\client-logo3.png" />
@@ -148,6 +150,7 @@
     <Content Include="assets\img\favicon-16x16.png" />
     <Content Include="assets\img\favicon-32x32.png" />
     <Content Include="assets\img\favicon.ico" />
+    <Content Include="assets\img\Fin Modal Image.PNG" />
     <Content Include="assets\img\Fizzbuzz480x480.jpg" />
     <Content Include="assets\img\footer-bg.jpg" />
     <Content Include="assets\img\hero1.jpg" />
