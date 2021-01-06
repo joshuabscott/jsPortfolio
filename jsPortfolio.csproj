@@ -229,6 +229,7 @@
     <Content Include="assets\fonts\fontawesome-webfont3e6e.woff" />
     <Content Include="assets\fonts\fontawesome-webfont3e6e.woff2" />
     <Content Include="assets\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="assets\Josh Scott Resume Coder Foundry.pdf" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="index.html" />
     <Content Include="offcanvasmenu.html" />
