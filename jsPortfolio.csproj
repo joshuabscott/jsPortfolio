@@ -130,6 +130,8 @@
     <Content Include="assets\img\award-logo3.png" />
     <Content Include="assets\img\award-logo4.png" />
     <Content Include="assets\img\award-logo5.png" />
+    <Content Include="assets\img\Background.png" />
+    <Content Include="assets\img\backgroundJS.png" />
     <Content Include="assets\img\bio-icon.png" />
     <Content Include="assets\img\Blog Modal Image.PNG" />
     <Content Include="assets\img\blog-post1.jpg" />
@@ -157,7 +159,9 @@
     <Content Include="assets\img\Hotdog480x480.jpg" />
     <Content Include="assets\img\Innovation.jpg" />
     <Content Include="assets\img\Josh Headshot Jan-5.jpg.png" />
+    <Content Include="assets\img\josh name.png" />
     <Content Include="assets\img\Josh Scott HS blk.jpg" />
+    <Content Include="assets\img\joshscott-technology-background.jpg" />
     <Content Include="assets\img\JoshScottlogo.png" />
     <Content Include="assets\img\latest-news3.png" />
     <Content Include="assets\img\logo.png" />
@@ -171,6 +175,7 @@
     <Content Include="assets\img\portfolio7.png" />
     <Content Include="assets\img\portfolio8.png" />
     <Content Include="assets\img\portfolio9.png" />
+    <Content Include="assets\img\purpleRatio.png" />
     <Content Include="assets\img\reply3.png" />
     <Content Include="assets\img\service-icon-bg.png" />
     <Content Include="assets\img\signatue.png" />
