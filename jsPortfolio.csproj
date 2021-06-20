@@ -132,6 +132,7 @@
     <Content Include="assets\img\award-logo5.png" />
     <Content Include="assets\img\Background.png" />
     <Content Include="assets\img\backgroundJS.png" />
+    <Content Include="assets\img\backgroundSquareJS.png" />
     <Content Include="assets\img\bio-icon.png" />
     <Content Include="assets\img\Blog Modal Image.PNG" />
     <Content Include="assets\img\blog-post1.jpg" />
