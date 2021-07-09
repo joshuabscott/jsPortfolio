@@ -123,6 +123,9 @@
     <Content Include="assets\footage.mp4" />
     <Content Include="assets\img\about-owner.jpg" />
     <Content Include="assets\img\about2-bg.jpg" />
+    <Content Include="assets\img\android-chrome-192x192.png" />
+    <Content Include="assets\img\android-chrome-512x512.png" />
+    <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\author-bg.jpg" />
     <Content Include="assets\img\author.png" />
     <Content Include="assets\img\award-logo1.png" />
